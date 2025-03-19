@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Amr!
 
-<!--
-**nassary-tech/nassary-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student | Problem Solver | Future AI Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a Computer Science student at South Valley National University (SVNU), currently on a journey to master C++, Python, and Java. My goal is to explore problem-solving, algorithmic challenges, and dive deep into AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Roadmap
+
+Each year, I'll be focusing on one language, starting with a "Hello, World" program on GitHub and working on projects in between:
+
+01/04/2025 – C++ (Competitive Programming, System-Level Projects)
+
+01/05/2026 – Python (Scripting, Automation, AI Foundations)
+
+01/06/2027 – Java (Backend Development, Scalable Applications)
+
+🔧 Skills & Interests
+
+Problem Solving & Competitive Programming (Codeforces, LeetCode).
+
+C++ & Python & Java (Currently learning, improving daily).
+
+Planning to dive into AI development in my later years of study.
+
+📌 Featured Projects (Coming Soon!)
+
+I'll be building projects along the way for each language, Stay tuned!
+
+📫 Connect with Me
+
+LinkedIn: linkedin.com/in/nassary-tech
+
+LeetCode: leetcode.com/nassary-tech
+
+GitHub: You're already here! 😃
+
+Feel free to follow along, collaborate, or just say hi!
