@@ -22,9 +22,9 @@ C++ & Python & Java (Currently learning, improving daily).
 
 Planning to dive into AI development in my later years of study.
 
-📌 Featured Projects (Coming Soon!)
+📌 Featured Projects
 
-I'll be building projects along the way for each language, Stay tuned!
+I'll be building projects along the way for each language. Go ahead and check the repos!
 
 📫 Connect with Me
 
