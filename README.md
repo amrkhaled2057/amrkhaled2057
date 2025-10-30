@@ -1,7 +1,5 @@
 Hi, I'm Amr!
 
-Computer Science student | Problem Solver | Future AI Engineer
-
 Welcome to my GitHub! I'm a Computer Science student at South Valley National University (SVNU), currently on a journey to master C++, Python, and Java. My goal is to explore problem-solving, algorithmic challenges, and dive deep into AI.
 
 🚀 Roadmap
@@ -16,7 +14,7 @@ Each year, I'll be focusing on one language, starting with a "Hello, World" prog
 
 🔧 Skills & Interests
 
-Problem Solving & Competitive Programming (Codeforces, LeetCode).
+Problem Solving & Competitive Programming (Codeforces).
 
 C++ & Python & Java (Currently learning, improving daily).
 
@@ -26,12 +24,4 @@ Planning to dive into AI development in my later years of study.
 
 I'll be building projects along the way for each language. Go ahead and check the repos!
 
-📫 Connect with Me
-
-LinkedIn: linkedin.com/in/nassary-tech
-
-LeetCode: leetcode.com/nassary-tech
-
-GitHub: You're already here! 😃
-
-Feel free to follow along, collaborate, or just say hi!
+🔗 Feel free to follow along, collaborate, or just say hi!
